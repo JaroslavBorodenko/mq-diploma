@@ -7,14 +7,14 @@
 
 @font-face {
   font-family: "Open Sans";
-  src: url(../fonts/OpenSans-Regular.ttf);
+  src: url("../fonts/OpenSans-Regular.ttf");
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Open Sans";
-  src: url(../fonts/OpenSans-Bold.ttf);
+  src: url("../fonts/OpenSans-Bold.ttf");
   font-weight: 700;
   font-style: normal;
 }
@@ -90,7 +90,7 @@
   }
   
   .popup-close {
-    background-image: "svg../form-x.svg";
+    background-image: url("svg../form-x.svg");
     background-color: transparent;
     position: absolute;
     top: -25px;
@@ -178,7 +178,7 @@
     -webkit-appearance: none;
     -moz-appearance: none;
   
-    background-image: "svg../form-arrows.svg";
+    background-image: url("svg../form-arrows.svg");
     background-repeat: no-repeat;
     background-position: right 10px center;
     background-size: 10px;
@@ -198,7 +198,7 @@
     vertical-align: middle;
     width: 25px;
     height: 25px;
-    background-image: "svg../form-empty-circle.svg";
+    background-image: url("svg../form-empty-circle.svg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 25px;
@@ -211,7 +211,7 @@
     vertical-align: middle;
     width: 30px;
     height: 30px;
-    background-image: "svg../form-circle.svg";
+    background-image: url("svg../form-circle.svg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 30px;
@@ -344,7 +344,7 @@
   
   @media (min-width: 1200px) {
     .header {
-      background-image: "images../banner-bg.jpg";
+      background-image: url("images../banner-bg.jpg");
       padding-top: 2rem;
       padding-bottom: 11rem;
     }
@@ -367,7 +367,7 @@
   
   @media (min-width: 641px) and (max-width: 1199px) {
     .header {
-      background-image: "images../banner-bg-tablet.jpg";
+      background-image: url("images../banner-bg-tablet.jpg");
   
       padding-top: 2.5rem;
       padding-bottom: 7.6rem;
@@ -391,7 +391,7 @@
   
   @media (max-width: 640px) {
     .header {
-      background-image: "images../banner-mobile.jpg";
+      background-image: url("images../banner-mobile.jpg");
   
       padding-top: 2rem;
       padding-bottom: 13.5rem;
@@ -823,7 +823,7 @@
     height: 47px;
     border: none;
   
-    background-image: "svg../search.svg");
+    background-image: url("svg../search.svg");
     background-color: #b19f64;
     background-repeat: no-repeat;
     background-size: 20px 20px;
@@ -1117,23 +1117,23 @@
   }
   
   .social-twitter {
-    background-image:  "svg../004-twitter.svg";
+    background-image:  url("svg../004-twitter.svg");
   }
   
   .social-pinterest {
-    background-image: "svg../001-pinterest.svg";
+    background-image: url("svg../001-pinterest.svg");
   }
   
   .social-facebook {
-    background-image: "svg../facebook-rounded-border-svgrepo-com.svg";
+    background-image: url("svg../facebook-rounded-border-svgrepo-com.svg");
   }
   
   .social-instagram {
-    background-image: "svg../instagram-svgrepo-com.svg";
+    background-image: url("svg../instagram-svgrepo-com.svg");
   }
   
   .social-tumblr {
-    background-image: "svg../003-tumblr.svg";
+    background-image: url("svg../003-tumblr.svg");
   }
   
   .copyright {
