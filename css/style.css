@@ -386,7 +386,7 @@
   
   @media (min-width: 641px) and (max-width: 1199px) {
     .header {
-      background-image: url("images../banner-bg-tablet.jpg");
+      background-image: url("images../banner-bg.jpg");
   
       padding-top: 2.5rem;
       padding-bottom: 7.6rem;
@@ -410,7 +410,7 @@
   
   @media (max-width: 640px) {
     .header {
-      background-image: url("images../banner-mobile.jpg");
+      background-image: url("images../banner-bg.jpg");
   
       padding-top: 2rem;
       padding-bottom: 13.5rem;
