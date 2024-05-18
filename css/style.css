@@ -536,22 +536,22 @@
 }
 
 .garden-on-the-windowsill {
-  background-image: url(https://github.com/Dmitri49/mq-diploma/blob/main/images/trend1.jpg?raw=true);
+  background-image: url("../images/trend1.jpg");
   background-color: #000000;
 }
 
 .cheeses-to-taste {
-  background-image: url(https://github.com/Dmitri49/mq-diploma/blob/main/images/trend2.jpg?raw=true);
+  background-image: url("../images/trend2.jpg");
   background-color: #000000;
 }
 
 .the-first-hike {
-  background-image: url(https://github.com/Dmitri49/mq-diploma/blob/main/images/trend3.jpg?raw=true);
+  background-image: url("../images/trend3.jpg");
   background-color: #000000;
 }
 
 .vitamin-c-in-lemons {
-  background-image: url(https://github.com/Dmitri49/mq-diploma/blob/main/images/trend4.jpg?raw=true);
+  background-image: url("../images/trend4.jpg");
   background-color: #000000;
 }
 
