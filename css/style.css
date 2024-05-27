@@ -465,9 +465,28 @@
     }
   }
   
-  .category-list {
-    padding-bottom: 3%;
-  }
+   ul.category-list li {
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #b59f5b;
+  font-size: 14px;
+  margin-right: 20px;
+  display: inline-block;
+}
+
+ul.category-list a {
+  opacity: 0.8;
+  color: #b59f5b;
+}
+
+ul.category-list a:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
+ul.category-list {
+  margin-bottom: 15px;
+}
   
   .category-list-item {
     font-size: 15px;
