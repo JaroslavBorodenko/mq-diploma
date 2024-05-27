@@ -488,12 +488,14 @@ ul.category-list {
   margin-bottom: 15px;
 }
   
-  .category-list-item {
-    font-size: 15px;
-    color: #b3a168;
-    text-transform: uppercase;
-    font-weight: bold;
-  }
+  .tags .category-list-item:hover {
+  opacity: 1;
+}  
+
+.tags .category-list-item:last-child {
+  margin: 0;
+}
+   
   
   /*---------------TREND---------------*/
    .trends-wrapper {
