@@ -975,7 +975,7 @@ ul.category-list {
     padding-left: 3px;
   }
 
-.search-field, query {
+.search-field, .query {
     width: 271px;
     height: 48px;
     display: flex;
