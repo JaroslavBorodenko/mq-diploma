@@ -386,7 +386,7 @@
     }
   }
   
-  @media (min-width: 768px) and (max-width: 1024px) {
+  @media (min-width: 640px) and (max-width: 1200px) {
     .header {
       background-image: url("../images/banner-bg-tablet.jpg");
   
@@ -410,7 +410,7 @@
     }
   }
   
-  @media (max-width: 320px) {
+  @media (max-width: 639px) {
     .header {
       background-image: url("../images/banner-mobile.jpg");
   
