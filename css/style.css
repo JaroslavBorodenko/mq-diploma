@@ -974,6 +974,24 @@ ul.category-list {
     color: #b3a168;
     padding-left: 3px;
   }
+
+.search-field, query {
+    width: 271px;
+    height: 48px;
+    display: flex;
+    box-sizing: border-box;
+    padding-left: 20px;
+    border: 1px solid white;
+    position: relative;
+    opacity: 0.5;
+    background-color: #f4f7f6;
+    font-size: 13px;
+    line-height: 40px;
+    color: #000000;
+    font-weight: 400;
+    font-family: "Open Sans";
+    font-style: Regular;
+}
   
   /*---------------SHOP---------------*/
    
