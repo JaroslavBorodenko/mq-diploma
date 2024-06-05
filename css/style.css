@@ -408,6 +408,9 @@
       width: 85%;
       padding-top: 6.25rem;
     }
+    .trends-posts {
+    flex-wrap: wrap;
+    }
   }
   
   @media (max-width: 639px) {
@@ -462,6 +465,9 @@
       width: 25px;
       height: 3px;
       background-color: #ffffff;
+    }
+  .trends-posts {
+    flex-wrap: wrap;
     }
   }
   
