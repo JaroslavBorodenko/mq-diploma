@@ -411,6 +411,9 @@
     .trends-posts {
     flex-wrap: wrap;
     }
+    .shop-products {
+    flex-wrap: wrap;
+    }
   }
   
   @media (max-width: 639px) {
@@ -467,6 +470,9 @@
       background-color: #ffffff;
     }
   .trends-posts {
+    flex-wrap: wrap;
+    }
+    .shop-products {
     flex-wrap: wrap;
     }
   }
