@@ -534,7 +534,7 @@ ul.category-list {
 .trends-post-section {
   position: relative;
   display: flex;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   align-items: flex-end;
   width: calc(25% - 3px);
   min-height: 320px;
@@ -549,7 +549,7 @@ ul.category-list {
 
   box-sizing: border-box;
   display: flex;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   align-items: flex-end;
 
   background-size: cover;
