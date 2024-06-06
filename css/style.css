@@ -540,6 +540,7 @@ ul.category-list {
 .trends-posts {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
   margin-top: 27px;
 }
 
@@ -1060,6 +1061,7 @@ ul.category-list {
   .shop-products {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
     margin-top: 27px;
   }
   
